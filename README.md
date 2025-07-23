@@ -1,22 +1,22 @@
 # 🧑‍💻 My Developer Portfolio  
 A personal portfolio website to showcase my projects, skills, and contact information.
 
-## 🌐 Live Demo  
+# 🌐 Live Demo  
 👉 https://kanakanjali.github.io/Portfolio/
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 • HTML, CSS, JavaScript  
 • Responsive Design  
 • Git & GitHub  
 • Bootstrap
 
-## 📂 Features  
+# 📂 Features  
 • Fully responsive design  
 • Projects showcase  
 • About Me section  
 • Contact/social links  
 
-## 📝 Suggestions Welcome  
+# 📝 Suggestions Welcome  
 I’d love to hear your thoughts!  
  If you have any feedback, suggestions, or find bugs, feel free to open an issue or reach out via LinkedIn or email.
  
